@@ -4,7 +4,7 @@
 
 #Jak napisać issue?
 
-(https://github.com/AxoNeteu/Issue-Tracker/issues)[Wystarczy kliknąc o TUTAJ]
+> [Wystarczy kliknąć o TUTAJ](https://github.com/AxoNeteu/Issue-Tracker/issues)
 
 
 #Załoga developerska
